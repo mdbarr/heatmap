@@ -1,0 +1,23 @@
+{
+  "name": "heatmap",
+  "version": "1.0.0",
+  "description": "heatmap generator from rectangles",
+  "main": "heatmap.js",
+  "dependencies": {
+    "pngjs": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbarr/heatmap.git"
+  },
+  "author": "Mark Barr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbarr/heatmap/issues"
+  },
+  "homepage": "https://github.com/mdbarr/heatmap#readme"
+}
